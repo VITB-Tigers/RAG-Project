@@ -31,7 +31,7 @@ A powerful Retrieval-Augmented Generation (RAG) system built with Mistral LLM, o
 - [Ollama](https://ollama.ai/) with Mistral model installed
 
 
-2. Create a virtual environment. If using Conda:
+2. Create a virtual environment (recommended). If using Conda:
 ```
 conda create -n *env_name* python==3.12.0 -y
 conda activate *env_name*
