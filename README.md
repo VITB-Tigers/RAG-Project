@@ -14,10 +14,7 @@ A powerful Retrieval-Augmented Generation (RAG) system built with Mistral LLM, o
 - [Project Structure](#-project-structure)
 - [Documentation](#-documentation)
 - [Learning Resources](#-learning-resources)
-- [Contributing](#-contributing)
 - [Troubleshooting](#-troubleshooting)
-- [Contact](#-contact)
-- [License](#-license)
 
 ## ✨ Features
 
@@ -33,12 +30,6 @@ A powerful Retrieval-Augmented Generation (RAG) system built with Mistral LLM, o
 - Git
 - [Ollama](https://ollama.ai/) with Mistral model installed
 
-## 📥 Installation
-
-1. Clone the repository:
-```bash
-git clone https://github.com/Preprod-Labs/DIY-RAG-LLMs.git
-```
 
 2. Create a virtual environment. If using Conda:
 ```
