@@ -30,9 +30,14 @@ A powerful Retrieval-Augmented Generation (RAG) system built with Mistral LLM, o
 - Git
 - [Ollama](https://ollama.ai/) with Mistral model installed
 
+1. Pull the repository onto your local machine.
+```bash
+git clone https://github.com/VITB-Tigers/RAG-Project.git
+cd RAG-Project
+```
 
 2. Create a virtual environment (recommended). If using Conda:
-```
+```bash
 conda create -n *env_name* python==3.12.0 -y
 conda activate *env_name*
 ```
